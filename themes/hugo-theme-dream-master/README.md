@@ -1,4 +1,4 @@
-# 🌱 hugo-theme-dream
+# 🌱 PRACTICAS ALBA
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/g1eny0ung/hugo-theme-dream)
 ![Hugo min version](https://img.shields.io/badge/hugo--min--version-0.57.2-important)
